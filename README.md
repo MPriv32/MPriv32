@@ -20,6 +20,7 @@ Currently hold 5 certifications:
 - CompTIA Network+
 - CompTIA A+
 - CompTIA IT Operations Specialist
+
 In the process of studying for my AWS SysOps certification, next!
 
 For more information about myself OR if you just wish to connect, feel free to connect with me on LinkedIn!
