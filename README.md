@@ -1,6 +1,6 @@
-Hello, welcome to my GitHub page where you can find my repositories to all of my completed projects!
+## Hello, welcome to my GitHub page where you can find my repositories to all of my completed projects!
 
-About Me:
+## About Me:
 I am a Cloud Engineer with prior professional experience as a network engineer. 
 I have hands-on experience with many of the top tools and services, such as:
 - AWS 
@@ -11,6 +11,7 @@ I have hands-on experience with many of the top tools and services, such as:
 - Jenkins
 - Python
 - Linux
+- Lambda
 
 (Which are talked about in more detail and utilized for most of my projects on here)
 
