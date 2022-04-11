@@ -12,7 +12,8 @@ I have hands-on experience with many of the top tools and services, such as:
 - Python
 - Ansible
 - Linux
-- Lambda
+- Packer
+- Prometheus
 
 (Which are talked about in more detail and utilized for most of my projects on here)
 
