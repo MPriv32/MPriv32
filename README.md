@@ -9,6 +9,7 @@ I have hands-on experience with many of the top tools and services, such as:
 - Kubernetes
 - Azure DevOps
 - Python
+- Bash Scripting
 - Ansible
 - Packer
 - Linux
