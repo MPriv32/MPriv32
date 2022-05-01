@@ -10,8 +10,10 @@ I have hands-on experience with many of the top tools and services, such as:
 - Azure DevOps
 - Python
 - Ansible
+- Packer
 - Linux
 - Prometheus
+- DataDog
 
 (Which are talked about in more detail and utilized for most of my projects on here)
 
