@@ -12,6 +12,7 @@ I have hands-on experience with many of the top tools and services, such as:
 - Bash Scripting
 - Ansible
 - Packer
+- Jenkins
 - Linux
 - Prometheus
 - DataDog
