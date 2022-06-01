@@ -1,7 +1,7 @@
 ## Hello, welcome to my GitHub page where you can find my repositories to all of my completed projects!
 
 ## About Me:
-I am a Cloud Engineer with prior professional experience as a network engineer. 
+Cloud Engineer with prior professional experience as a network engineer. 
 I have hands-on experience with many of the top tools and services, such as:
 - AWS 
 - Terraform
