@@ -8,6 +8,7 @@ I have hands-on experience with many of the top tools and services, such as:
 - Docker 
 - Kubernetes
 - Azure DevOps
+- GitLab
 - Python
 - Bash Scripting
 - Ansible
