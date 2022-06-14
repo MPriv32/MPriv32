@@ -17,7 +17,9 @@ I have hands-on experience with many of the top tools and services, such as:
 - Linux
 - Prometheus
 - DataDog
-
+- Elasticsearch
+- FluentD
+- Kibana
 (Which are talked about in more detail and utilized for most of my projects on here)
 
 Currently hold 5 certifications: 
