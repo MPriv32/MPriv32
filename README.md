@@ -3,7 +3,8 @@
 ## About Me:
 DevOps engineer at Coalfire
 I have hands-on experience with many of the top tools and services, such as:
-- AWS 
+- AWS
+- GCP
 - Terraform
 - Docker 
 - Kubernetes
