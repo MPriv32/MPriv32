@@ -1,4 +1,4 @@
-## Hello, welcome to my GitHub page where you can find my repositories to all of my completed projects!
+## Hello, welcome to my GitHub!
 
 ## About Me:
 DevOps engineer at Coalfire
