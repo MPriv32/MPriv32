@@ -1,4 +1,4 @@
-## Hello, welcome to my GitHub!
+## Hello, welcome to my GitHub page!
 
 ## About Me:
 DevOps engineer at Coalfire
